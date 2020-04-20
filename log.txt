@@ -1,0 +1,22 @@
+Application Run by user at Thu Nov  7 19:11:12 2019 
+Application Run by user at Fri Nov  8 16:41:09 2019 
+Application Run by user at Fri Nov  8 16:42:49 2019 
+Application Run by user at Fri Nov  8 16:43:16 2019 
+Invalid Access of acc 1004 by user at <built-in function ctime>
+Application Run by user at Fri Nov  8 16:43:35 2019 
+Application Run by user at Fri Nov  8 16:43:49 2019 
+Application Run by user at Fri Nov  8 16:44:09 2019 
+Application Run by user at Fri Nov  8 18:40:14 2019 
+Application Run by user at Fri Nov  8 18:40:51 2019 
+Application Run by user at Fri Nov  8 18:41:29 2019 
+User with acc no 1004 logged into account at Fri Nov  8 18:42:06 2019
+Application Run by user at Fri Nov  8 18:42:12 2019 
+Application Run by user at Fri Nov  8 18:42:23 2019 
+Application Run by user at Fri Nov  8 18:42:40 2019 
+Application Run by user at Fri Nov  8 18:43:51 2019 
+Application Run by user at Sun Dec  1 11:48:43 2019 
+Application Run by user at Wed Jan 22 22:15:41 2020 
+Application Run by user at Wed Jan 22 22:15:49 2020 
+Application Run by user at Mon Apr 20 16:27:41 2020 
+Application Run by user at Mon Apr 20 16:28:51 2020 
+Application Run by user at Mon Apr 20 16:29:02 2020 
